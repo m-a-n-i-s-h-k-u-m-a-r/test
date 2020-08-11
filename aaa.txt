@@ -1,2 +1,4 @@
 name
 father's name
+mother's name
+brother's name
